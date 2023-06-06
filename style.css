@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    width: 100%;
+    height: 1024px;
+    background-color: brown;
+    display: flex;
+    gap: 20px;
+    justify-content: ;
+}
+
+div {
+    border: 1px solid;
+    width: 33%;
+}
+
+
